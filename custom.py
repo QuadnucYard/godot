@@ -1,7 +1,7 @@
 # Generated using https://godot-build-options-generator.github.io
 
 production = "yes"
-disable_3d = "yes"
+# disable_3d = "yes"
 deprecated = "no"
 minizip = "no"
 brotli = "no"
